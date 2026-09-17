@@ -10,4 +10,9 @@ A classic command-line implementation of the game **Tic-Tac-Toe** (also known as
 * **Two-Player Mode:** Supports local play between two human players.
 * **Input Validation:** Ensures players make valid moves (e.g., placing marks only on empty squares).
 * **Win Detection:** Automatically determines the winner or declares a draw.
-  
+
+## Screenshot
+
+Here's a screenshot of the interface:
+
+![Screenshot of the application interface](assets/Screenshot From 2025-12-09 18-16-36.png)
