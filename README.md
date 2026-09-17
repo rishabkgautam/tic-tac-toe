@@ -15,4 +15,4 @@ A classic command-line implementation of the game **Tic-Tac-Toe** (also known as
 
 Here's a screenshot of the interface:
 
-![Screenshot of the application interface](assets/Screenshot From 2025-12-09 18-16-36.png)
+![Screenshot of the application interface](./assets/Screenshot.png)
